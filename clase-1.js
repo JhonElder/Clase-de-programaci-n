@@ -1,13 +1,7 @@
 // una Variable es un valor que puedo cambiar en el proceso de la ejecución
-//una Constante es un valor que se mantiene una vez sea indexada
+//una Constante es un valor que se mantiene una vez sea indexad
 
-/*ejemplo var a = 1 ; a = 2;
-
-ejemplo de constante const a = 1; a = 2 ERROR; 
-
-var o 
-
-la constante nunca puede cambiar su valor inicial independiente al tipo de dato*/
+// la constante nunca puede cambiar su valor inicial independiente al tipo de dato
 //CASO DE TIPO NÚMERO
 var numero = 1
 const constante_numero = 1
